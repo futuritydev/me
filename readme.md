@@ -7,3 +7,5 @@
 <a href="https://wabot.net/grupo" target="_blank"><img src="https://img.shields.io/badge/WhatsApp%20Bot-Entre%20no%20grupo-green" /></a>
 <br>
 <a href="https://linktr.ee/gabriel.da.silva_" target="_blank"><img src="https://img.shields.io/badge/Linktree-Gabriel%20da%20Silva-blue" /></a>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=drizion&show_icons=true&theme=dark&show_owner=true&count_private=true">
