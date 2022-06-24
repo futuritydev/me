@@ -2,7 +2,7 @@
 
 ### me segue nas redes sociais :)
 
-<a href="https://instagram.com/gabriel.da.silva_" target="_blank"><img src="https://img.shields.io/badge/Instagram-@gabriel.da.silva__-purple" /></a>
+<a href="https://instagram.com/eu_drizion" target="_blank"><img src="https://img.shields.io/badge/Instagram-@eu_drizion_-purple" /></a>
 <br>
 <a href="https://tiktok.com/@eu_drizion" target="_blank"><img src="https://img.shields.io/badge/TikTok-@eu_drizion_-red" /></a>
 <br>
