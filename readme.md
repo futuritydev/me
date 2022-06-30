@@ -13,6 +13,7 @@
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=drizion&show_icons=true&theme=dark&show_owner=true&count_private=true">
-<img style="margin-left:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drizion&layout=compact&langs_count=7&theme=dark" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drizion&layout=compact&langs_count=7&theme=dark" />
 
  ![Snake animation](https://github.com/drizion/drizion/blob/output/github-contribution-grid-snake.svg)
