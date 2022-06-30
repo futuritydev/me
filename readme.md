@@ -3,6 +3,7 @@
 ### me segue nas redes sociais :)
 
 <a href="https://instagram.com/eu_drizion" target="_blank"><img src="https://img.shields.io/badge/Instagram-@eu_drizion_-purple" /></a>
+<img style="margin-left:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drizion&layout=compact&langs_count=7&theme=dark" />
 <br>
 <a href="https://tiktok.com/@eu_drizion" target="_blank"><img src="https://img.shields.io/badge/TikTok-@eu_drizion_-red" /></a>
 <br>
